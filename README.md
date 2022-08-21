@@ -25,3 +25,5 @@ urumitheme.ogg is composed by: Compound (https://youtu.be/HCkPOzdouXU)
 abyss.ogg is composed by: Compound
 
 Rumia's and Urumi's portraits drawn by Edd (https://twitter.com/doggosuW)
+
+Shousprite.png by GreenDinobot
